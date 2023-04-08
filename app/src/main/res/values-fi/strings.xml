@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SijoitusSovellus</string>
+    <string name="enter_a_stock_name">Anna osakkeen nimi</string>
+    <string name="stockPriceInput">Anna osakkeen hinta</string>
+    <string name="string_enter_the_amount_stocks">Osakkeiden lukumäärä</string>
+    <string name="btn_cancel">Takaisin</string>
+    <string name="btn_enter">OK</string>
+    <string name="btn_buy">Osta</string>
+    <string name="btn_sell">Myy</string>
+    <string name="sell_btn">Sulje positio</string>
+    <string name="tv_sumDescription">Kokonais-saldo:</string>
+    <string name="language">Language</string>
+    <string name="finnish">Finnish</string>
+    <string name="english">English</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>

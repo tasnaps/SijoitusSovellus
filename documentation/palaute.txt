@@ -1,0 +1,6 @@
+Palaute kurssista
+
+Kurssilla sai hyvin edetä omaan tahtiin, tämä sopi minulle hyvin. Kaikki tehtävät olivat hyvin selkeitä ja esimerkit auttoivat paljon oppimista.
+Käytin paljon aikaa kurssin projektityöhön. En tiedä miten iso ohjelma oli tarkoitus tehdä ja mietin välillä lähtikö homma lapasesta.
+
+Kurssi oli mielestäni ihan hyvin toteutettu. Ehkä teoriaa voisi olla enemmän. Esimerkiksi miten gradle liittyy androidiin.
